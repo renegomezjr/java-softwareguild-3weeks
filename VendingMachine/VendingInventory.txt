@@ -1,0 +1,5 @@
+Orbit::49::0.2
+SpecialK::49::1.0
+Oreos::50::0.2
+Doritos::50::0.2
+WhiteCastle::50::0.2
